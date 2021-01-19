@@ -3,7 +3,7 @@
 <b>An ML powered Electricity Outage prediction tool.</b>
 <br>
 
-<b><a href="https://elecktra.uc.r.appspot.com/">CHECK LIVE</a></b>
+<b><a href="http://unnatimishra1920.pythonanywhere.com/">CHECK LIVE</a></b>
 <br>
 
 
