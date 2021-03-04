@@ -29,6 +29,7 @@
 <li>Django</li>
 <li>Sqlite</li>
 <li>Google Maps API</li>
+<li>Charts.js</li>
 
 
 
