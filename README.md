@@ -1,4 +1,4 @@
-#  ⚡ ELEKTRA⚡
+#  ⚡ ELEKTRA⚡ (Currently used as a project in GSSOC) 
 
 <b>An ML powered Electricity Outage prediction tool.</b>
 <br>
