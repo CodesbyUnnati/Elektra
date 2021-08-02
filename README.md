@@ -1,5 +1,5 @@
 #  ⚡ ELEKTRA⚡ (Open Source in GSsoc <a href="https://github.com/khannakshat7/Elektra">here</a>)
-**An ML-powered Electricity Outage prediction tool**
+** Electricity Outage prediction tool**
 
 [CHECK LIVE](https://elecktra.uc.r.appspot.com)
 
